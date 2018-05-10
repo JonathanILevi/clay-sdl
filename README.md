@@ -1,2 +1,2 @@
-# clay-sdl
-Currently for personal use.
+# DSDL2
+D-ish SDL port.  Built using DerelictSDL2.

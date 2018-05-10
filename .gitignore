@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+dsdl2.so
+dsdl2.dylib
+dsdl2.dll
+dsdl2.a
+dsdl2.lib
+dsdl2-test-*
+*.exe
+*.o
+*.obj
+*.lst
+/.vs
